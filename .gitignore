@@ -1,0 +1,24 @@
+ .DS_Store
+
+.gradle
+!gradle-wrapper.jar
+.gradletasknamecache
+
+**/.mps/workspace.xml
+**/.mps/shelf
+
+.idea/workspace.xml
+.idea/shelf
+.idea/**/gradle.xml
+.idea/sonarlint
+
+classes_gen
+source_gen
+source_gen.caches
+
+**/startup.properties
+
+build
+out
+
+/lib
