@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="MPSProject">
-    <projectModules>
-      <modulePath path="$PROJECT_DIR$/code/cats-model/solutions/ir.amv.os.snippets.catsmodel/ir.amv.os.snippets.catsmodel.msd" folder="cats-model" />
-    </projectModules>
+    <projectModules />
   </component>
 </project>
